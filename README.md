@@ -9,6 +9,6 @@ Apple 2000 has been open-sourced under the MIT license.
 
 ### Contact
 
-This program marks the beginning of my professional career as a videogame developer - one that continues to this day 20+ years later. You can reach the author, Kevin Kralian, at kevin.kralian@gmail.com
+This program marks the beginning of my professional career as a videogame developer - one that continues to this day 20+ years later. You can reach the author, Kevin Kralian, at kevin.kralian AT gmail.com
 
 
